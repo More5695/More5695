@@ -1,5 +1,29 @@
-## Hi there 👋
+# Hi there 👋, I'm More5695  
 
+🚀 Passionate about coding, open-source, and constantly learning new things.  
+💡 I enjoy working on interesting projects and sharing knowledge with the community.  
+
+---
+
+## 📊 GitHub Stats  
+
+![More5695's GitHub stats](https://github-readme-stats.vercel.app/api?username=More5695&show_icons=true&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=More5695&theme=tokyonight&hide_border=true)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=More5695&layout=compact&theme=tokyonight)  
+
+---
+
+## 🛠️ Languages & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,react,git,github,vscode,linux&theme=dark" />
+</p>
+
+---
+
+## 🌐 Connect with Me  
+- GitHub: [More5695](https://github.com/More5695)  
 <!--
 **More5695/More5695** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
