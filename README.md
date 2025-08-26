@@ -9,8 +9,6 @@
 
 ![More5695's GitHub stats](https://github-readme-stats.vercel.app/api?username=More5695&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=More5695&theme=tokyonight&hide_border=true)  
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=More5695&layout=compact&theme=tokyonight)  
 
 ---
