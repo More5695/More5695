@@ -15,7 +15,7 @@
 
 ## 🛠️ Languages & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css,tailwind,nodejs,react,nextjs,git,github,vscode,visualstudio,apple,windows,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cs,js,ts,html,css,tailwind,nodejs,react,nextjs,git,mysql,postgres,github,vscode,visualstudio,apple,windows,linux&theme=dark" />
 </p>
 
 ---
